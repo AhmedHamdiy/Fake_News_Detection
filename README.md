@@ -1,11 +1,11 @@
 # Fake_News_Detect🧐
-This GitHub repository is for our MTH2253 course research on 'How social media spreads misinformation?' It showcases the models we trained and the datasets we used.
+This GitHub repository is for our MTH2253 course research on 'How social media spreads misinformation?'. The repository showcases the models we trained and the datasets we used.
 
 # The first model is named (img_fake_detect)🖼
-it uses the naive bayes algoritm to predict the probability that news is fake given that it has no image
+it uses the naive bayes algorithm to predict the probability that news is fake given that it has no image
 
 # The second model is named (text_fake_detect)📝
-Using the power of NLP and TF_IDF, it predicts whether news is fake by processing its text
+Using the power of NLP and TF-IDF, it predicts whether news is fake by processing its text
 
 # To run the two models:
   1- Unzip the datasets files 
