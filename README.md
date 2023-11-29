@@ -11,6 +11,6 @@ Using the power of NLP and TF_IDF, it predicts whether news is fake by processin
   1- Unzip the datasets files 
   2- run the code of the two models
 
-# Screenshots of the confusion matrix of the fake_text_model
+# Screenshot of the confusion matrix of the fake_text_model
 
 ![3](https://github.com/AhmedHamdiy/Fake_News_Detect/assets/111378492/c3871c6f-cd79-4a93-a001-4a5273b25917)
